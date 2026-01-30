@@ -2,33 +2,21 @@
   <img src="./assets/banner_1200x300.png" alt="Soporte, Desarrollo e Innovación — iCERO1" width="100%" />
 </p>
 
-# 🌐 Panel Administrativo — Portales Institucionales 
+# 🏛️ Panel Administrativo — Portales Institucionales (Portales Lite)
 
-## ✨ iCERO1 presenta: el panel que sí se siente como producto
-Había una época (todos la vivimos) donde administrar un portal era como jugar *Jenga* con guantes:  
-mueves una cosa… y te tiemblan otras tres. 😅
+Bienvenidos al **nuevo sistema de administración de portales institucionales**, proporcionado por **iCERO1**.  
+Este panel está diseñado para una operación **más ágil, estable y consistente** en cualquier entorno (PC, tablet o móvil), reduciendo tiempos de carga y mejorando la respuesta en tareas diarias.
 
-Entonces llegó **1CERO1** con una idea simple y poderosa:  
-hacer que el panel administrativo sea **rápido**, **claro** y **amable** con el día a día —  
-sin sacrificar gobernanza, permisos ni control corporativo.
+## ✅ Nueva mecánica de trabajo
+- 🗂️ **SharePoint** funciona como **gestor de archivos**: assets (JS/CSS, imágenes, fuentes) con **versionado** y **permisos**.
+- 🧩 **Vue** es la **experiencia de usuario**: navegación fluida, interfaz moderna y una interacción más rápida (sin recargas innecesarias).
 
-### 🚀 ¿Qué cambió?
-En esta nueva etapa, cada pieza hace lo que mejor sabe hacer:
+## 🎯 Qué puedes esperar
+- ⚡ **Mayor fluidez** en la navegación y uso del panel.
+- 📲 **Adaptación real** a diferentes dispositivos y tamaños de pantalla.
+- 🔒 **Control y gobernanza** sobre los archivos (permisos + versiones).
+- 🧠 **Interfaz clara** para operar con menos fricción y más precisión.
 
-- 🧩 **Vue** se encarga de la **experiencia**: interfaz moderna, navegación fluida, respuesta inmediata y consistencia visual.
-- 🗂️ **SharePoint** se queda como el **gestor de archivos con gobierno**: assets con versionado, permisos y orden institucional.
-
-### 🧠 ¿Y la experiencia cómo se siente?
-- ⚡ **Fluidez real**: el panel se mueve como app, no como “página que piensa mucho”.
-- 📲 **Multidispositivo sin drama**: en escritorio, tablet o móvil todo mantiene lógica, tamaño y claridad.
-- 🧭 **Orientación constante**: siempre sabes dónde estás y qué toca hacer (sin perderte en laberintos).
-- 🛡️ **Tranquilidad operativa**: cambios con control, con rastro, con estructura. Menos sustos, más confianza.
-
-> **Resultado:** menos fricción, más velocidad; menos “¿por qué no cargó?”, más “listo, siguiente”. ✅
-
----
-
-## 🏗️ Arquitectura final (la verdad detrás del telón)
 ```mermaid
 flowchart LR
   A[Vue App<br/>UI / Componentes / Rutas] --> B[SharePoint<br/>Gestor de Archivos<br/>JS/CSS/Imgs + Versionado]
