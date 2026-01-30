@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png" alt="Soporte, Desarrollo e Innovación — iCERO1" width="100%">
+  <img src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png" alt="Soporte, Desarrollo e Innovación — iCERO1" width="25%">
 </p>
 
 # 🚀 Integración Vue + SharePoint  
