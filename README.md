@@ -12,7 +12,7 @@
 ![Status](https://img.shields.io/badge/Plan-Listo%20para%20ejecutar-7CF7C5?style=for-the-badge)
 ---
 
-## 🎯 Qué vamos a lograr (sin humo)
+## 🎯 Qué vamos a lograr 
 - **Vue** se vuelve la **capa de presentación**: UI/UX, componentes, rutas y estado.
 - **SharePoint** se queda como **biblioteca corporativa**: aloja **JS/CSS**, imágenes, fuentes, y maneja **permisos + versionado**.
 - El **Back / Datos** se consumen por **APIs** (SharePoint REST / Microsoft Graph / servicios existentes).
