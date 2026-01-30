@@ -2,35 +2,20 @@
   <img src="./assets/banner_1200x300.png" alt="Soporte, Desarrollo e Innovación — iCERO1" width="100%">
 </p>
 
-# 🚀 Integración Vue + SharePoint  
-> **Objetivo ejecutivo:** desacoplar el **Front** del **Back** y dejar **SharePoint** en modo **gestor de archivos** (assets, versionado y permisos).  
-> Traducción: menos “pegote” en páginas, más control del producto, y deploys sin sudor frío.
+# Panel Administrativo — Portales Institucionales
 
-![Vue](https://img.shields.io/badge/Vue-Front%20Moderno-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-Assets%20%26%20Versionado-0078d4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Architecture](https://img.shields.io/badge/Arquitectura-Desacoplada-8A5CFF?style=for-the-badge)
-![Status](https://img.shields.io/badge/Plan-Listo%20para%20ejecutar-7CF7C5?style=for-the-badge)
----
+Bienvenido al **centro de control** de los portales institucionales. Este panel está pensado para que la gestión diaria sea **ágil, predecible y sin fricción**: menos “recargar para ver si sí”, más “clic y listo”.
 
-## 🎯 Qué vamos a lograr 
-- **Vue** se vuelve la **capa de presentación**: UI/UX, componentes, rutas y estado.
-- **SharePoint** se queda como **biblioteca corporativa**: aloja **JS/CSS**, imágenes, fuentes, y maneja **permisos + versionado**.
-- El **Back / Datos** se consumen por **APIs** (SharePoint REST / Microsoft Graph / servicios existentes).
+La nueva dinámica es simple (y rentable en paz mental):
+- **SharePoint** opera como **gestor corporativo de archivos**: un repositorio gobernado para **assets** (JS/CSS, imágenes, fuentes) con **versionado y permisos** que juegan en equipo.
+- **Vue** es la **experiencia de usuario** del panel: navegación fluida tipo app, interacción inmediata, y una interfaz consistente que se adapta sin drama a escritorio, tablet y móvil.
 
-> [!TIP]
-> SharePoint deja de ser “donde vive el front” y pasa a ser “donde viven los archivos”.  
-> Vue deja de ser “un script más” y pasa a ser “el producto”.
+## Qué vas a sentir en la operación
+- **Fluidez**: moverte entre secciones se siente como una aplicación, no como una maratón de recargas.
+- **Respuesta rápida**: acciones con feedback claro (el sistema “responde”, no “piensa en voz alta”).
+- **Consistencia en cualquier dispositivo**: el panel mantiene la misma lógica y comodidad en pantallas grandes o táctiles.
+- **Satisfacción operativa**: cambios más controlados, menos sorpresas; el versionado y permisos ponen orden donde antes había “fe”.
 
----
-
-## 🧠 La idea en una línea
-**SharePoint = Storage + Governance** ✅  
-**Vue = Experiencia + Velocidad** ⚡  
-**Back/APIs = Datos + Reglas** 🛡️
-
----
-
-## 🏗️ Arquitectura objetivo (como debe verse en el mundo real)
 ```mermaid
 flowchart LR
   A[Vue App<br/>UI / Componentes / Rutas] --> B[SharePoint<br/>Gestor de Archivos<br/>JS/CSS/Imgs + Versionado]
