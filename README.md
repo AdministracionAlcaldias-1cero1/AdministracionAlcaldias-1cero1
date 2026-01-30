@@ -2,13 +2,13 @@
   <img src="./assets/banner_1200x300.png" alt="Soporte, Desarrollo e Innovación — iCERO1" width="100%" />
 </p>
 
-# 🌐 Panel Administrativo — Portales Institucionales (Portales Lite)
+# 🌐 Panel Administrativo — Portales Institucionales 
 
 ## ✨ iCERO1 presenta: el panel que sí se siente como producto
 Había una época (todos la vivimos) donde administrar un portal era como jugar *Jenga* con guantes:  
 mueves una cosa… y te tiemblan otras tres. 😅
 
-Entonces llegó **iCERO1** con una idea simple y poderosa:  
+Entonces llegó **1CERO1** con una idea simple y poderosa:  
 hacer que el panel administrativo sea **rápido**, **claro** y **amable** con el día a día —  
 sin sacrificar gobernanza, permisos ni control corporativo.
 
