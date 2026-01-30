@@ -1,46 +1,10 @@
 
-<p align="center">
-  <span
-    style="
-      display:block;
-      width:100%;
-      max-width:1200px;
-      aspect-ratio: 5 / 1;
-      position:relative;
-      overflow:hidden;
-      border-radius:16px;
-    "
-  >
-    <!-- Fondo: misma imagen, blur -->
-    <img
-      src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png"
-      alt=""
-      style="
-        position:absolute;
-        inset:0;
-        width:100%;
-        height:100%;
-        object-fit:cover;
-        filter: blur(18px);
-        transform: scale(1.12);
-        opacity:0.95;
-      "
-    />
-    <img
-      src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png"
-      alt="Soporte, Desarrollo e Innovación — iCERO1"
-      style="
-        position:absolute;
-        inset:0;
-        margin:auto;
-        width:25%;
-        height:100%;
-        object-fit:contain;
-        filter:none;
-      "
-    />
-  </span>
-</p>
+<div align="center">
+  <div style="position:relative; width:100%; max-width:1200px; height:240px; overflow:hidden; border-radius:16px; margin:0 auto;">
+    <img src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png" alt="" style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; filter:blur(18px); transform:scale(1.12); opacity:0.95;" />
+    <img src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png" alt="Soporte, Desarrollo e Innovación — iCERO1" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); width:25%; max-height:100%; object-fit:contain;" />
+  </div>
+</div>
 
 
 # 🚀 Integración Vue + SharePoint  
