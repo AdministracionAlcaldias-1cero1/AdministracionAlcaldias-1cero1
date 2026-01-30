@@ -28,7 +28,7 @@
       "
     />
 
-    <!-- Frente: misma imagen centrada (25%) -->
+
     <img
       src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png"
       alt="Soporte, Desarrollo e Innovación — iCERO1"
