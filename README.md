@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <span
     style="
@@ -27,8 +26,6 @@
         opacity:0.95;
       "
     />
-
-
     <img
       src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png"
       alt="Soporte, Desarrollo e Innovación — iCERO1"
@@ -44,8 +41,6 @@
     />
   </span>
 </p>
-
-
 # 🚀 Integración Vue + SharePoint  
 > **Objetivo ejecutivo:** desacoplar el **Front** del **Back** y dejar **SharePoint** en modo **gestor de archivos** (assets, versionado y permisos).  
 > Traducción: menos “pegote” en páginas, más control del producto, y deploys sin sudor frío.
