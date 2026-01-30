@@ -1,11 +1,6 @@
-
-<div align="center">
-  <div style="position:relative; width:100%; max-width:1200px; height:240px; overflow:hidden; border-radius:16px; margin:0 auto;">
-    <img src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png" alt="" style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; filter:blur(18px); transform:scale(1.12); opacity:0.95;" />
-    <img src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png" alt="Soporte, Desarrollo e Innovación — iCERO1" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); width:25%; max-height:100%; object-fit:contain;" />
-  </div>
-</div>
-
+<p align="center">
+  <img src="./assets/banner_1200x300.png" alt="Soporte, Desarrollo e Innovación — iCERO1" width="100%">
+</p>
 
 # 🚀 Integración Vue + SharePoint  
 > **Objetivo ejecutivo:** desacoplar el **Front** del **Back** y dejar **SharePoint** en modo **gestor de archivos** (assets, versionado y permisos).  
