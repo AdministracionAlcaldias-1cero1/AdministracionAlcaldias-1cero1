@@ -1,21 +1,29 @@
 <p align="center">
-  <img src="./assets/banner_1200x300.png" alt="Soporte, Desarrollo e Innovación — 1CERO1" width="100%" />
+  <img src="./assets/banner_1200x300.png" alt="Soporte, Desarrollo e Innovación — iCERO1" width="100%" />
 </p>
 
-# 🏛️ Panel Administrativo — Portales Institucionales
+# 🏛️ Panel Administrativo — Portales Institucionales (Portales Lite)
 
-Bienvenidos al **nuevo sistema de administración de portales institucionales**, proporcionado por **1CERO1**.  
-Este panel está diseñado para una operación **más ágil, estable y consistente** en cualquier entorno (PC, tablet o móvil), reduciendo tiempos de carga y mejorando la respuesta en tareas diarias.
+Bienvenidos al **nuevo sistema de administración de portales institucionales**, provisto por **1CERO1**.  
+Este panel está orientado a una operación **más ágil, estable y consistente** en **PC, tablet y móvil**: menos fricción, más control, y una experiencia que responde como producto (no como “página que negocia”). ⚡
 
-## ✅ Nueva mecánica de trabajo
-- 🗂️ **SharePoint** funciona como **gestor de archivos**: assets (JS/CSS, imágenes, fuentes) con **versionado** y **permisos**.
-- 🧩 **Vue** es la **experiencia de usuario**: navegación fluida, interfaz moderna y una interacción más rápida (sin recargas innecesarias).
+## ✅ Nueva mecánica (simple y gobernable)
+- 🗂️ **SharePoint** = **gestor corporativo de archivos** (assets, versionado y permisos).
+- 🧩 **Vue** = **experiencia e interfaz de usuario** (fluidez, consistencia, respuesta rápida).
 
-## 🎯 Qué puedes esperar
-- ⚡ **Mayor fluidez** en la navegación y uso del panel.
-- 📲 **Adaptación real** a diferentes dispositivos y tamaños de pantalla.
-- 🔒 **Control y gobernanza** sobre los archivos (permisos + versiones).
-- 🧠 **Interfaz clara** para operar con menos fricción y más precisión.
+## 🎯 Qué puedes esperar en el uso diario
+- ⚡ Navegación más fluida y acciones con respuesta clara.
+- 📲 Interfaz adaptable a distintos dispositivos y resoluciones.
+- 🔒 Control institucional sobre archivos (permisos + versiones).
+- 🧠 Operación más precisa: menos pasos, menos recargas, menos “¿y dónde era esto?”.
+
+---
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/SharePoint_2013_Logo.PNG" alt="SharePoint 2013" height="110" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" height="120" />
+</p>
 
 ```mermaid
 flowchart LR
