@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png" alt="Soporte, Desarrollo e Innovación — iCERO1" width="100%">
+</p>
+
 # 🚀 Integración Vue + SharePoint  
 > **Objetivo ejecutivo:** desacoplar el **Front** del **Back** y dejar **SharePoint** en modo **gestor de archivos** (assets, versionado y permisos).  
 > Traducción: menos “pegote” en páginas, más control del producto, y deploys sin sudor frío.
@@ -6,11 +12,6 @@
 ![SharePoint](https://img.shields.io/badge/SharePoint-Assets%20%26%20Versionado-0078d4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Arquitectura-Desacoplada-8A5CFF?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Plan-Listo%20para%20ejecutar-7CF7C5?style=for-the-badge)
-
-<p align="center">
-  <img src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png" alt="Soporte, Desarrollo e Innovación — iCERO1" width="100%">
-</p>
-
 ---
 
 ## 🎯 Qué vamos a lograr (sin humo)
