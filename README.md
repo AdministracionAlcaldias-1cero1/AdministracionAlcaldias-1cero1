@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Plan-Listo%20para%20ejecutar-7CF7C5?style=for-the-badge)
 
 <p align="center">
-  <img src="https://drive.google.com/u/0/drive-viewer/AKGpihYI8mf20D85pQLvpAi69ne7rIqbObbfT8iZdkEkR5DE8YcEAx7dMbDabxuJd9O5O-fxOZMy5poV6Ed_D87YJ_bOgO44IDJD4-M=s1600-rw-v1?auditContext=forDisplay" alt="Soporte, Desarrollo e Innovación — iCERO1" width="100%">
+  <img src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png" alt="Soporte, Desarrollo e Innovación — iCERO1" width="100%">
 </p>
 
 ---
