@@ -1,6 +1,45 @@
 
 <p align="center">
-  <img src="./assets/banner_1200x300.png" alt="Soporte, Desarrollo e Innovación — iCERO1" width="80%">
+  <span
+    style="
+      display:block;
+      width:100%;
+      max-width:1200px;
+      aspect-ratio: 5 / 1;
+      position:relative;
+      overflow:hidden;
+      border-radius:16px;
+    "
+  >
+    <!-- Fondo: misma imagen, blur -->
+    <img
+      src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png"
+      alt=""
+      style="
+        position:absolute;
+        inset:0;
+        width:100%;
+        height:100%;
+        object-fit:cover;
+        filter: blur(18px);
+        transform: scale(1.12);
+        opacity:0.95;
+      "
+    />
+    <img
+      src="./assets/Gemini_Generated_Image_6tqpfo6tqpfo6tqp.png"
+      alt="Soporte, Desarrollo e Innovación — iCERO1"
+      style="
+        position:absolute;
+        inset:0;
+        margin:auto;
+        width:25%;
+        height:100%;
+        object-fit:contain;
+        filter:none;
+      "
+    />
+  </span>
 </p>
 
 
