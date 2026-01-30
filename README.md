@@ -7,6 +7,10 @@
 ![Architecture](https://img.shields.io/badge/Arquitectura-Desacoplada-8A5CFF?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Plan-Listo%20para%20ejecutar-7CF7C5?style=for-the-badge)
 
+<p align="center">
+  <img src="./assets/banner_1920x480.png" alt="Soporte, Desarrollo e Innovación — iCERO1" width="100%">
+</p>
+
 ---
 
 ## 🎯 Qué vamos a lograr (sin humo)
